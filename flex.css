@@ -1,0 +1,30 @@
+.parentContainer {
+  display: flex;
+  border: 1px solid blue;
+  height: 300px;
+  padding: 30px;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.children {
+  border: 1px solid red;
+  height: 100px;
+}
+.h-max {
+  height: 300px;
+}
+.h-max2 {
+  height: 50px;
+}
+.h-max3 {
+  height: 200px;
+}
+.flex-shrink-1 {
+  flex-shrink 5;
+}
+.flex-shrink-2 {
+  flex-shrink: 3;
+}
+#idname {
+    border: ;
+}
